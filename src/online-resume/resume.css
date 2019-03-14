@@ -1,0 +1,38 @@
+.top{
+    background-color: yellow;
+    height: 260px;
+    
+    padding: 30px;
+    padding-top: 10px; 
+}   
+.top-image{
+    float: left;
+}
+.toptext{
+    float: left;
+    margin-left: 20%;
+    background-color: white;
+}
+.left{
+    background-color: chocolate;
+    float: left;
+    max-width: 350px;
+}
+
+.right{
+    float: right;
+    background-color: aqua;
+    max-width: 350px;
+}
+.skill-box{
+    margin-top: 10px;
+    background-color: rgb(180, 24, 24);
+    width: 300px;
+    display: inline-block;
+    
+}
+
+.right-image{
+    width: 300px;
+    display: inline-block; 
+}

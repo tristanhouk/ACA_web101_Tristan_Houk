@@ -39,7 +39,7 @@ ul {
 
 main {
     border: 2px dotted red; 
-    /* background: pink */
+    background: pink;
     padding: 40px;
     display: flex; 
     flex-direction: column;

@@ -1,4 +1,29 @@
-body {
+header {
+  height: 90px;
+  background: url("https://t3.ftcdn.net/jpg/02/16/02/12/240_F_216021279_hkvBdyXXB4YfP6fBm7i9atu1NTb7oGfM.jpg");
+  display: flex;
+  justify-content: space-between;
+
+}
+.head-left {
+  
+  display: inline;
+  
+}
+
+.head {
+  display: flex;
+  align-items: center;
+}
+.head-right {
+  justify-content: space-between;
+  width: 50%;
+}
+.head li {
+  list-style: none;
+}
+
+/* body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/00/15/30/4656e81f6dc57c5.jpg);
     background-repeat: no-repeat;
@@ -13,7 +38,7 @@ body {
     margin: 3% 10%;
   }
   
-  header {
+  .header2 {
     display: grid;
     grid-template-columns: 40% 60%;
     width: 100%;
@@ -97,4 +122,4 @@ body {
     color: white;
     letter-spacing: 16px;
     font-style: italic;
-  }
+  } */
